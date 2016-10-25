@@ -1,5 +1,5 @@
 undertake:承担，负责
-suggest
+suggest:建议
 resistant
 measure
 tame
